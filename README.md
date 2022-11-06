@@ -4,3 +4,5 @@ Insert your name like this:
 
 Add yours here:
 Jhanavi Thakkar
+
+- Eric Feng
