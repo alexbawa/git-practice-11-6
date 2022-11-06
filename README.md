@@ -4,3 +4,7 @@ Insert your name like this:
 
 Add yours here:
 - Ben Walton
+
+- Eric Feng
+
+- Sam Shefnie
