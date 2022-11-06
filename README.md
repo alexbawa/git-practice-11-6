@@ -3,7 +3,7 @@ Insert your name like this:
 - Alex Barrera-Waters
 
 Add yours here:
-Jhanavi Thakkar
+- Jhanavi Thakkar
 
 - Eric Feng
 
