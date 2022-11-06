@@ -4,10 +4,26 @@ Insert your name like this:
 
 
 Add yours here:
+<<<<<<< HEAD
 
+
+
+
+
+
+
+=======
+- Ben Walton
+
+- Jhanavi Thakkar
+
+- Eric Feng
+
+- Sam Shefnie
 
 
 
 
 
 - Neelasha Bhattacharjee
+>>>>>>> master
