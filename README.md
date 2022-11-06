@@ -5,3 +5,5 @@ Insert your name like this:
 Add yours here:
 
 - Eric Feng
+
+- Sam Shefnie
