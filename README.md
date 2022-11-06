@@ -5,6 +5,8 @@ Insert your name like this:
 Add yours here:
 - Ben Walton
 
+- Jhanavi Thakkar
+
 - Eric Feng
 
 - Sam Shefnie
